@@ -17,7 +17,8 @@ Este proyecto es una aplicación web simple y elegante para generar portafolios 
 
 ## Captura de Pantalla
 
-![Captura de Pantalla del Generador de Portafolios](screenshot.png)
+![image](https://github.com/user-attachments/assets/f0c8b2d3-53da-4486-afe5-20ac68c7b6bf)
+
 
 ## Instalación y Uso
 
